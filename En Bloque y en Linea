@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <meta charset="utf-8">
+     <title>Las diez mejores películas de todos los tiempos</title>
+     <style>
+      h1 {
+      color: #F0F8FF;  
+      text-align: center;}
+      h2 {
+        color: rgb(226, 228, 109);
+        text-align: center;
+        font-weight: 100;}
+      h3 {
+        font-weight: 600; font-size: 18px;}
+      P {
+        text-align: auto;
+        }
+      img {
+        margin: auto;
+        width: "100";
+        text-align: center;
+      }
+      div.img{
+        display: table;
+      }
+      div.img img{
+        margin: 0;
+        padding: 0;
+      }
+      div.img span{
+        line-height: normal;
+        font-size: 11px;
+        display:table-footer-group;
+        margin: 0;
+        background: #646464;
+        color: white;
+        font-style: italic;
+        padding: 4px;
+        text-align: left;
+      }
+      </style>
+
+   </head>
+   <body>
+
+           <h1>LOREMIPSUMS</h1>
+       <a name="principio"><h2>Bastante dolor sit, bastante amet</h2></a>
+       <article>
+         <h3>Todo bien Lorem</h3>
+        <p> 
+          <span style="color: red;"> Lorem</span> ipsum dolor sit amet consectetur adipisicing elit. Porro nihil excepturi mollitia amet officiis eaque quo, id omnis, a laboriosam maxime sequi! Veritatis facilis corporis ullam odit quam itaque pariatur.
+        </p>
+        <p>
+          <span style="color: red;">Lorem</span> ipsum dolor sit amet consectetur adipisicing elit. Porro nihil excepturi mollitia amet officiis eaque quo, id omnis, a laboriosam maxime sequi! Veritatis facilis corporis ullam odit quam itaque pariatur.
+        </p>
+      <div class="img">
+        <img src="https://www.nilovelez.com/wp-content/uploads/2014/01/lipsum_bacon.jpg">
+                   <span>Con bacon todo es mejor.</span>
+      </div>
+          
+          <h3>Todo bien ipsum</h3>
+          <p>Lorem <span style="color: red;">ipsum</span> dolor sit amet consectetur adipisicing elit. Porro nihil excepturi mollitia amet officiis eaque quo, id omnis, a laboriosam maxime sequi! Veritatis facilis corporis ullam odit quam itaque pariatur.
+          </p>
+          <p>Lorem <span style="color: red;">ipsum</span> dolor sit amet consectetur adipisicing elit. Porro nihil excepturi mollitia amet officiis eaque quo, id omnis, a laboriosam maxime sequi! Veritatis facilis corporis ullam odit quam itaque pariatur.
+          </p>
+      
+      </div>
+       <ul>
+        <li>Lorem</li>
+        <li>Ipsum</li>
+        <li>Dolor</li>
+        <li>Sit</li>
+        <li>Amet</li>
+        </ul>
+
+      </article>
+      
+      <footer>
+        <a href=”#principio”>Ir al principio</a>
+
+      </footer>
+    </body>
+</html>
